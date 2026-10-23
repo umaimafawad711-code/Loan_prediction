@@ -12,4 +12,4 @@ The notebook covers Exploratory Data Analysis (EDA), data cleaning (handling mis
 1. Clone this repository or download the files.
 2. Ensure you have `pandas`, `scikit-learn`, `matplotlib`, and `seaborn` installed (see `requirements.txt`).
 3. Open the `.ipynb` notebook in Jupyter Notebook or Google Colab.
-4. Run all the cells from top to bottom. Ensure the dataset file `train_u6lujuX_CVtuZ9i.csv` is in the same directory as the notebook.
+4. Run all the cells from top to bottom. Ensure the dataset file `dataset.csv` is in the same directory as the notebook.i aslo provide the dataset file in this github repo download the dataset from the link or download the file directly from this repo.
