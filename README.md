@@ -16,6 +16,7 @@ Welcome to my Machine Learning journey repository! This repository contains all 
 *   **[Week 1: Data Exploration & Problem Framing](./Week_1)** - EDA on Amazon RTO dataset.
 *   **[Week 2: Data Preparation & Feature Engineering](./Week_2)** - Cleaning, encoding, scaling, and handling data leakage on the Loan Prediction dataset.
 *   **[Week 3: Supervised Models](./Week_3)** - Training and comparing KNN, Decision Tree, and Logistic Regression.
+*   **[Week 4:](./Week_4)** - Model Comparison, Tuning, and Evaluation
 
 ## 🛠️ Technologies Used
 *   Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)
